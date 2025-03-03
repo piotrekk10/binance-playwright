@@ -1,0 +1,11 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://testnet.binancefuture.com",
+      "localStorage": [
+        { "name": "chart_shared_TOOLBAR_MOVED_KEY", "value": "true" }
+      ]
+    }
+  ]
+}

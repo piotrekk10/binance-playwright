@@ -1,0 +1,83 @@
+{
+  "cookies": [
+    {
+      "name": "p20t",
+      "value": "web.40595601.F594C5516385F141383ECD9D0322D1CF",
+      "domain": ".binancefuture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cr00",
+      "value": "CA438F272FC78218331D3E659B8FA9F1",
+      "domain": ".binancefuture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "d1og",
+      "value": "web.40595601.F579E85DA37D075BF3C6D56E7132ECD4",
+      "domain": ".binancefuture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "r2o1",
+      "value": "web.40595601.5D4684E595C47F5BFF9CF8C4A2A37C95",
+      "domain": ".binancefuture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "f30l",
+      "value": "web.40595601.DC19F02AB4874FCFC9C768C5A1BB73D5",
+      "domain": ".binancefuture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CSRFToken",
+      "value": "CA438F272FC78218331D3E659B8FA9F1",
+      "domain": "testnet.binancefuture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "logined",
+      "value": "y",
+      "domain": "testnet.binancefuture.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://testnet.binancefuture.com",
+      "localStorage": [
+        { "name": "futuresHotFeaturesIsReleased", "value": "false" },
+        { "name": "futuresHotFeaturesView", "value": "false" }
+      ]
+    }
+  ]
+}
